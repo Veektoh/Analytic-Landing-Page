@@ -335,7 +335,7 @@ h3{
     }
     .price-head-div p {
         margin: 0;
-        padding: 2em 0 0;
+        padding: 2em 0 0.6em;
         opacity: 0.6;
         font-size: 0.8rem;
     }
