@@ -226,7 +226,7 @@ h3{
     /****************************** main *****************/
 
     main {
-        width: 80%;
+        width: 100%;
         margin: 0 auto;
         text-align: center;
         color: #8794BA;   
@@ -266,7 +266,7 @@ h3{
     .sub-img-div {
         border-radius: 30px;
         max-width: 100%;
-        width: 100%;
+        width: 80%;
         background: white;
         height: auto;
         overflow: hidden;
@@ -306,7 +306,7 @@ h3{
 
     .price-container {
         display: flex;
-        width: 80%;
+        width: 100%;
         flex-direction: column;
         justify-content: center;
         align-items: center;
@@ -331,11 +331,11 @@ h3{
     }
     .price-head-div {
         margin: 1em 0;
-        padding: 2em 4em 2em;
+        padding: 2em 0em 0.5em;
     }
     .price-head-div p {
         margin: 0;
-        padding:2em 0 0;
+        padding: 2em 0 0;
         opacity: 0.6;
         font-size: 0.8rem;
     }
@@ -360,13 +360,13 @@ h3{
     .footer {
         display: flex;
         flex-direction: column;
-        width: 95%;
+        width: 100%;
         justify-content: space-between;
         align-items: center;
         margin: 1em auto;
     }
     .fot-logo-div {
-        width: 90%;
+        width: 100%;
     }
     .footer-nav-div{
         margin: 1em auto;
@@ -386,13 +386,13 @@ h3{
     }
     .foot-nav-div{
         display: flex;
-        width: 60%;
+        width: 100%;
         list-style-type: none;
         justify-content: space-between;
     }
     .soc-div {
         display: flex;
-        width: 90%;
+        width: 100%;
         list-style-type: none;
         justify-content: space-between;
         margin: 1em auto;
@@ -404,13 +404,13 @@ h3{
     .small-br {
         border: 1px solid #8794BA;
         opacity: 0.2;
-        width: 80%;
+        width: 85%;
         margin: 0 auto;
     }
     .big-br {
         border: 1px solid #8794BA;
         opacity: 0.2;
-        width: 70%;
+        width: 85%;
         margin: 3em auto;
     }
     .upline {
