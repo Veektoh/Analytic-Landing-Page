@@ -124,7 +124,7 @@ h3{
         border-radius: 30px;
         color: white;
         text-align: center;
-        Margin: 0 -1em;
+        Margin-left: -1em;
     }
     .nav-div li:hover{
         background: #EF2A82;
